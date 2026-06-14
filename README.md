@@ -30,9 +30,9 @@ Software Developer passionate about building scalable applications, exploring AI
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayAI-ML\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay.dev\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YakshayAI-ML\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay.dev\&layout=compact)
 
 ## 🌟 Featured Projects
 
