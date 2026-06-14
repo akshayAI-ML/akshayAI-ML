@@ -34,21 +34,13 @@ Software Developer passionate about building scalable applications, exploring AI
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayAI-ML\&layout=compact)
 
-## 🌟 Featured Projects
 
-### Project Name
-
-Short description of what the project does and why it's useful.
-
-### Project Name
-
-Short description of what the project does and why it's useful.
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* Portfolio: https://YOUR_WEBSITE.com
+* GitHub: https://github.com/akshayAI-ML
+* LinkedIn: www.linkedin.com/in/akshay-x-sharma
+* Portfolio: https://akshay-sharma-portoflio.netlify.app/
 
 ---
 
