@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋, I'm Akshay Sharma
 
-<!--
-**akshayAI-ML/akshayAI-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Software Developer passionate about building scalable applications, exploring AI, and creating impactful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Full-Stack Development
+* 🤖 Interested in AI & Automation
+* 🌱 Always learning new technologies
+* 🚀 Building projects and solving real-world problems
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* JavaScript
+* TypeScript
+* Python
+* HTML
+* CSS
+
+### Frameworks & Tools
+
+* React
+* Next.js
+* Node.js
+* Express
+* Git & GitHub
+* Docker
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+## 🌟 Featured Projects
+
+### Project Name
+
+Short description of what the project does and why it's useful.
+
+### Project Name
+
+Short description of what the project does and why it's useful.
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+* Portfolio: https://YOUR_WEBSITE.com
+
+---
+
+⭐ If you like my work, consider following me and checking out my repositories.
